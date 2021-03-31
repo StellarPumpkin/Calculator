@@ -1,0 +1,47 @@
+body {
+    background: antiquewhite;
+    font-family: "Orbitron", serif;
+  }
+  .calculator {
+    width: 380px;
+    text-align: center;
+    display: block;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #abc6c2;
+    background: #224662;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px;
+  }
+  input {
+    text-align: right;
+    width: 300px;
+    height: 35px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: #bcbcbc;
+  }
+  .allKeys {
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 8px;
+  }
+  button {
+    width: 62px;
+    margin: 2px;
+  }
+  
+  .btn-zero {
+    width: 134px;
+  }
+  .result {
+    float: right;
+    margin-left: 5px;
+    height: 77px;
+    position: relative;
+    top: 2px;
+    right: 7px;
+  }
+  
